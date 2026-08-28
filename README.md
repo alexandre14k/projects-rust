@@ -1,6 +1,8 @@
 # projects-rust
 public released rust projects
 
+![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=alexandre14k&repo=https://github.com/alexandre14k/projects-rust&label=Views&labelColor=%23555555&countColor=%23007EC6)
+
 Emoji legend<br>
 ✅ tested<br>
 ❌ failed<br>
