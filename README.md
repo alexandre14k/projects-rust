@@ -13,4 +13,4 @@ Emoji legend<br>
 |----------|-----|-------|-------|-------|---------|-----|------|----------|
 | repl<br>lexer<br>parser<br>token<br>syntax<br>python shell<br>static build | [tester](https://github.com/alexandre14k/tester) | ✅ | ⬜ | ⬜ | ⬜ | ⬜ | x86_64 | all in one executable<br>python like repl<br>no external dependencies |
 | ftp server<br>cli menu<br>std only<br>async call<br>threads<br>mpsc<br>stats | [ftproto](https://github.com/alexandre14k/ftproto) | ✅ | ⬜ | ⬜ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | simple ftp server<br>on the go config<br>no external dependencies |
-| nucleo-f411re<br>cli menu<br>std only<br>no_std<br>queue<br>statemachine<br>timer | [blinky](https://github.com/alexandre14k/blinky) | ✅ | ⬜ | ⬜ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | blink led<br>minimalist code |
+| nucleo-f411re<br>no_std<br>queue<br>statemachine<br>timer | [blinky](https://github.com/alexandre14k/blinky) | ✅ | ⬜ | ⬜ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | blink led<br>minimalist code |
