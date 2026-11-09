@@ -15,3 +15,4 @@ Emoji legend<br>
 | std only<br>file tree | [oak](https://github.com/alexandre14k/oak) | ✅ | ⬜ | ✅ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | posix tree like app |
 | ftp server<br>cli menu<br>std only<br>async call<br>threads<br>mpsc<br>stats | [ftproto](https://github.com/alexandre14k/ftproto) | ✅ | ⬜ | ⬜ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | simple ftp server<br>on the go config<br>no external dependencies |
 | nucleo-f411re<br>no_std<br>queue<br>statemachine<br>timer | [blinky](https://github.com/alexandre14k/blinky) | ✅ | ⬜ | ⬜ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | blink led<br>minimalist code |
+| om13087-lpc1115<br>no_std<br>queue<br>statemachine<br>timer | [n1](https://github.com/alexandre14k/n1) | ✅ | ⬜ | ⬜ | ⬛️ | ⬛️ | x86, x86_64,<br>arm32, arm64, <br>aarch64 | blink led<br>minimalist code |
